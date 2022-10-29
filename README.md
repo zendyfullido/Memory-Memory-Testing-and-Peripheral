@@ -7,6 +7,7 @@ Embedded System Activity No. 5
 We need to perform memory testing to identify errors both before and after use because our memory units may be impacted by crosstalk, memory leaks, and fragmentation. This could result in isolated system failures or perhaps cascading failures.
 
 2. Implement the following using C/C++
+
 A. CheckSum
 
 B. CRC (Cycling Redundancy Check)

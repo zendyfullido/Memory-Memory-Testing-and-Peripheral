@@ -54,7 +54,7 @@ if (strlen(a) == strlen(b))
         char carry = '0';
         int length = strlen(a);
         
-for (i = length - 1; i > = 0; i--)
+for (i = length-1; i >= 0; i--)
         {
             if ( a[i] == '0' && b[i] == '0' && carry == '0')
             {

@@ -116,7 +116,7 @@ for (i = length - 1; i > = 0; i--)
                 complement [i] = '0';
         }
         
-if (carry=='1')
+if (carry == '1')
             carry ='0';
         else
             carry ='1';

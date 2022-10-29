@@ -41,7 +41,7 @@ public:
 	int nf, ng, frame[20], gen[10], temp[20], b; 
 	char a;
 	int* divide (int n, int g, int temp[10], int gen[10]) { 
-  for (int i=0; i<n; i++) 
+  for (int i = 0; i < n; i++) 
 { 
 
 	if (gen[0] == temp[i]) 

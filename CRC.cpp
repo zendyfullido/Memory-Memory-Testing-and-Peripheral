@@ -65,7 +65,7 @@ void input()
 	cout << "Enter length of your frame:"; 
 	cin >> nf; 
 	cout << "Enter your frame:"; 
-	for (int i=0; i < nf; i++)
+	for (int i = 0; i < nf; i++)
 { 
 
 cin >> frame[i]; 
